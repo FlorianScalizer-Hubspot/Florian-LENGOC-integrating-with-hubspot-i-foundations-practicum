@@ -28,4 +28,4 @@ ___
 - You must create a developer test account and link to it in your README.md file. Submissions that do not meet this requirement will not be considered.
   
 ## link to the list view of the custom object i ve made 
-- https://app-eu1.hubspot.com/contacts/146326513/objects/2-143549248/views/all/list
+Custom Object Link: https://app.hubspot.com/contacts/146326513/objects/2-143549248/views/all/list
